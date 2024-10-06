@@ -1,0 +1,21 @@
+# Essential
+pandas
+numpy
+matplotlib
+seaborn
+altair
+
+#dataset file import
+requests
+
+# sml models
+scikit-learn
+xgboost
+imblearn
+joblib
+
+# streamlit
+streamlit
+
+# ai explaining
+duckduckgo_search
